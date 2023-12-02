@@ -1,7 +1,8 @@
 # the Kuiper Frontier
-<img width="794" alt="demo2" src="https://github.com/Leoreoreo/theKuiperFrontier/assets/87118867/cb66a278-9727-46a7-930e-ec5a605c10e5">
-<img width="799" alt="demo1" src="https://github.com/Leoreoreo/theKuiperFrontier/assets/87118867/c088f8df-58e8-47a8-8ac1-76c2c02b20cd">
-<img width="800" alt="demo0" src="https://github.com/Leoreoreo/theKuiperFrontier/assets/87118867/01552008-34e6-495f-b85e-f72ee3d11a15">
+<img width="400" alt="demo0" src="https://github.com/Leoreoreo/theKuiperFrontier/assets/87118867/01552008-34e6-495f-b85e-f72ee3d11a15">
+<img width="400" alt="demo2" src="https://github.com/Leoreoreo/theKuiperFrontier/assets/87118867/cb66a278-9727-46a7-930e-ec5a605c10e5">
+<img width="400" alt="demo1" src="https://github.com/Leoreoreo/theKuiperFrontier/assets/87118867/c088f8df-58e8-47a8-8ac1-76c2c02b20cd">
+
 
 ## Brief Intro:
 

@@ -1,4 +1,4 @@
-### the Kuiper Frontier
+# the Kuiper Frontier
 
 ## Brief Intro:
 
